@@ -15,3 +15,13 @@ This project contains all Ecmascript features relased since ES6 (2015)
 - Classes
 - Modules
 - Generators
+
+## ES7 (2016)
+- Includes method
+- Potentiation operator
+
+## ES8 (2017)
+- Object.entries
+- Object.values
+- Padding
+- Async & Await
