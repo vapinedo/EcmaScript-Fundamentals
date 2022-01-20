@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "Curso Ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecmascript",
+    "javascript"
+  ],
+  "author": "Valp",
+  "license": "MIT"
+}
