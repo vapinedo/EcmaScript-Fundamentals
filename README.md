@@ -40,3 +40,11 @@ This project contains all Ecmascript features relased since ES6 (2015)
 - Optional catch binding
 - fromEntries
 - Symbol description
+
+## ES11 (2020)
+- Dynamic import ( Lazy loading )
+- BigInt Method
+- Promise allSettled
+- globalThis
+- Nullish Coalescing Operator
+- Optional Chaining
