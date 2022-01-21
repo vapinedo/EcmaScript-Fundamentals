@@ -25,3 +25,18 @@ This project contains all Ecmascript features relased since ES6 (2015)
 - Object.values
 - Padding
 - Async & Await
+
+
+## ES9 (2018)
+- Spread Operator Enhancements
+- Promise finally
+- Regular expressions enhancements
+
+## ES10 (2019)
+- Array Flat
+- Array FlatMap
+- TrimStart method
+- TrimEnd method
+- Optional catch binding
+- fromEntries
+- Symbol description
