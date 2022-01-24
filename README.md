@@ -48,3 +48,10 @@ This project contains all Ecmascript features relased since ES6 (2015)
 - globalThis
 - Nullish Coalescing Operator
 - Optional Chaining
+
+## ES12 (2021)
+- Replace All
+- Private Class Methods
+- Promise Any
+- WithRef
+- New 3 logical operators ( &&, ||, ??)
